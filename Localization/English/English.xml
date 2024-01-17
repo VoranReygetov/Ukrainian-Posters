@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="English" nowhitespace="false" translatedname="English">
+  <!-- ITEMS -->
+  <entityname.upposter_bandera>Bandera poster</entityname.upposter_bandera>
+  <entitydescription.upposter_bandera>
+    Stepan Andriyovych Bandera - a Ukrainian 
+    far-right leader of the radical militant 
+    wing of the Organization of Ukrainian Nationalists.
+  </entitydescription.upposter_bandera>
+  <entityname.upposter_oun>OUN poster</entityname.upposter_oun>
+  <entitydescription.upposter_oun>
+    The Organisation of Ukrainian Nationalists was a Ukrainian
+    nationalist organisation established in 1929 in Vienna,
+    uniting the Ukrainian Military Organization with smaller,
+    mainly youth, radical nationalist right-wing groups.
+  </entitydescription.upposter_oun>
+  <entityname.upposter_emblem>Emblem poster</entityname.upposter_emblem>
+  <entitydescription.upposter_emblem>
+    Flag of Organization of Ukrainian Nationalists
+    appeared in 1930s - officialy adopted in 1955, 1964
+  </entitydescription.upposter_emblem>
+  <entityname.upposter_shevchenko>Shevchenko poster</entityname.upposter_shevchenko>
+  <entitydescription.upposter_shevchenko>
+    Taras Hryhorovych Shevchenko was a Ukrainian
+    poet, writer, artist, public and political figure,
+    folklorist and ethnographer. 
+    He was a fellow of the Imperial Academy of Arts
+    and a member of the Brotherhood of Saints Cyril and Methodius. 
+  </entitydescription.upposter_shevchenko>
+    <entityname.upposter_bogdan>Khmelnytsky poster</entityname.upposter_bogdan>
+  <entitydescription.upposter_bogdan>
+    was a Ruthenian nobleman and military commander of
+    Ukrainian Cossacks as Hetman of the Zaporozhian Host, 
+    which was then under the suzerainty
+    of the Polish-Lithuanian Commonwealth. 
+  </entitydescription.upposter_bogdan>
+</infotexts>

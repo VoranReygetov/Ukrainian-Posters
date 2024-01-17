@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<contentpackage name="Ukrainian Posters" modversion="1.0.0" corepackage="False" gameversion="1.2.8.0">
+  <Item file="%ModDir%/Xml/items.xml" />
+  <Text file="%ModDir%/Localization/English/English.xml"/>
+  <Other file="%ModDir%/Images/banderaposter.png" />
+  <Other file="%ModDir%/Images/ounposter.png" />
+  <Other file="%ModDir%/Images/emblemposter.png"/>
+  <Other file="%ModDir%/Images/kobzarposter.png"/>
+    <Other file="%ModDir%/Images/bogdanposter.png"/>
+</contentpackage>
