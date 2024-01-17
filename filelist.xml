@@ -6,5 +6,6 @@
   <Other file="%ModDir%/Images/ounposter.png" />
   <Other file="%ModDir%/Images/emblemposter.png"/>
   <Other file="%ModDir%/Images/kobzarposter.png"/>
-    <Other file="%ModDir%/Images/bogdanposter.png"/>
+  <Other file="%ModDir%/Images/bogdanposter.png"/>
+  <Other file="%ModDir%/Images/ukrainianposter.png"/>
 </contentpackage>

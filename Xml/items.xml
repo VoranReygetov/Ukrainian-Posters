@@ -81,4 +81,20 @@
     </Holdable>
     <PreferredContainer primary="storagecab" spawnprobability="0" />
   </Item>
+  <!-- Ukrainian Poster -->
+  <Item name="" identifier="upposter_ukraine" tags="smallitem" maxstacksize="4" category="Misc" cargocontaineridentifier="metalcrate" pickdistance="150" scale="0.30" description="" HideConditionBar="true" isshootable="true">
+    <Body width="68" height="92" density="40"/>
+    <Price baseprice="96">
+      <Price locationtype="outpost" multiplier="1" minavailable="1" />
+      <Price locationtype="city" multiplier="1" minavailable="1" />
+      <Price locationtype="research" multiplier="2" sold="false" />
+      <Price locationtype="military" multiplier="2" sold="false" />
+      <Price locationtype="mine" multiplier="2" sold="false" />
+    </Price>
+    <Deconstruct time="1"></Deconstruct>
+    <Sprite texture="%ModDir%/images/ukrainianposter.png" depth="0.85" sourcerect="0,0,300,200" origin="0.5,0.5" />
+    <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetach" PickingTime="1" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true">
+    </Holdable>
+    <PreferredContainer primary="storagecab" spawnprobability="0" />
+  </Item>
 </Items>

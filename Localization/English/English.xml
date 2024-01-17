@@ -3,16 +3,16 @@
   <!-- ITEMS -->
   <entityname.upposter_bandera>Bandera poster</entityname.upposter_bandera>
   <entitydescription.upposter_bandera>
-    Stepan Andriyovych Bandera - a Ukrainian 
-    far-right leader of the radical militant 
-    wing of the Organization of Ukrainian Nationalists.
+  Stepan Andriyovych Bandera - a Ukrainian 
+  far-right leader of the radical militant 
+  wing of the Organization of Ukrainian Nationalists.
   </entitydescription.upposter_bandera>
   <entityname.upposter_oun>OUN poster</entityname.upposter_oun>
   <entitydescription.upposter_oun>
-    The Organisation of Ukrainian Nationalists was a Ukrainian
-    nationalist organisation established in 1929 in Vienna,
-    uniting the Ukrainian Military Organization with smaller,
-    mainly youth, radical nationalist right-wing groups.
+  The Organisation of Ukrainian Nationalists was a Ukrainian
+  nationalist organisation established in 1929 in Vienna,
+  uniting the Ukrainian Military Organization with smaller,
+  mainly youth, radical nationalist right-wing groups.
   </entitydescription.upposter_oun>
   <entityname.upposter_emblem>Emblem poster</entityname.upposter_emblem>
   <entitydescription.upposter_emblem>
@@ -21,17 +21,26 @@
   </entitydescription.upposter_emblem>
   <entityname.upposter_shevchenko>Shevchenko poster</entityname.upposter_shevchenko>
   <entitydescription.upposter_shevchenko>
-    Taras Hryhorovych Shevchenko was a Ukrainian
-    poet, writer, artist, public and political figure,
-    folklorist and ethnographer. 
-    He was a fellow of the Imperial Academy of Arts
-    and a member of the Brotherhood of Saints Cyril and Methodius. 
+  Taras Hryhorovych Shevchenko was a Ukrainian
+  poet, writer, artist, public and political figure,
+  folklorist and ethnographer. 
+  He was a fellow of the Imperial Academy of Arts
+  and a member of the Brotherhood of Saints Cyril and Methodius. 
   </entitydescription.upposter_shevchenko>
-    <entityname.upposter_bogdan>Khmelnytsky poster</entityname.upposter_bogdan>
+  <entityname.upposter_bogdan>Khmelnytsky poster</entityname.upposter_bogdan>
   <entitydescription.upposter_bogdan>
-    was a Ruthenian nobleman and military commander of
-    Ukrainian Cossacks as Hetman of the Zaporozhian Host, 
-    which was then under the suzerainty
-    of the Polish-Lithuanian Commonwealth. 
+  Bohdan Zynoviy Mykhailovych Khmelnytsky
+  was a Ruthenian nobleman and military commander of
+  Ukrainian Cossacks as Hetman of the Zaporozhian Host, 
+  which was then under the suzerainty
+  of the Polish-Lithuanian Commonwealth. 
   </entitydescription.upposter_bogdan>
+  <entityname.upposter_ukraine>Ukraine poster</entityname.upposter_ukraine>
+  <entitydescription.upposter_ukraine>
+  The blue and yellow bicolour first appeared during the 1848
+  Spring of Nations in Lemberg, then part of the Austrian Empire.
+  It was adopted as a state flag for the first time in the aftermath
+  of the Russian Revolution by the Ukrainian People's Republic,
+  the West Ukrainian People's Republic and the Ukrainian State. 
+  </entitydescription.upposter_ukraine>
 </infotexts>
