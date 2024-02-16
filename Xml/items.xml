@@ -12,8 +12,11 @@
       <Price locationtype="mine" multiplier="2" sold="false" />
     </Price>
     <Deconstruct time="1"></Deconstruct>
-    <Sprite texture="%ModDir%/images/banderaposter.png" depth="0.85" sourcerect="0,0,272,368" origin="0.5,0.5" />
+    <Sprite texture="%ModDir%/images/posters.png" depth="0.85" sourcerect="0,0,277,375" origin="0.5, 0.5" />
     <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetach" PickingTime="1" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true">
+      <StatusEffect type="OnContained" target="NearbyCharacters" range="350">
+        <Affliction identifier ="upcossackpower" strength="10"/>
+      </StatusEffect>
     </Holdable>
     <PreferredContainer primary="storagecab" spawnprobability="0" />
   </Item>
@@ -28,8 +31,11 @@
       <Price locationtype="mine" multiplier="2" sold="false" />
     </Price>
     <Deconstruct time="1"></Deconstruct>
-    <Sprite texture="%ModDir%/images/ounposter.png" depth="0.85" sourcerect="0,0,300,200" origin="0.5,0.5" />
+    <Sprite texture="%ModDir%/images/posters.png" depth="0.85" sourcerect="407,394,400,267" origin="0.5,0.5" />
     <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetach" PickingTime="1" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true">
+      <StatusEffect type="OnContained" target="NearbyCharacters" range="350">
+        <Affliction identifier ="upcossackpower" strength="10"/>
+      </StatusEffect>
     </Holdable>
     <PreferredContainer primary="storagecab" spawnprobability="0" />
   </Item>
@@ -44,8 +50,11 @@
       <Price locationtype="mine" multiplier="2" sold="false" />
     </Price>
     <Deconstruct time="1"></Deconstruct>
-    <Sprite texture="%ModDir%/images/emblemposter.png" depth="0.85" sourcerect="0,0,292,184" origin="0.5,0.5" />
+    <Sprite texture="%ModDir%/images/posters.png" depth="0.85" sourcerect="0,394,401,253" origin="0.5, 0.5" />
     <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetach" PickingTime="1" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true">
+      <StatusEffect type="OnContained" target="NearbyCharacters" range="350">
+        <Affliction identifier ="upcossackpower" strength="10"/>
+      </StatusEffect>
     </Holdable>
     <PreferredContainer primary="storagecab" spawnprobability="0" />
   </Item>
@@ -60,8 +69,11 @@
       <Price locationtype="mine" multiplier="2" sold="false" />
     </Price>
     <Deconstruct time="1"></Deconstruct>
-    <Sprite texture="%ModDir%/images/kobzarposter.png" depth="0.85" sourcerect="0,0,212,300" origin="0.5,0.5" />
+    <Sprite texture="%ModDir%/images/posters.png" depth="0.85" sourcerect="289,0,265,375" origin="0.5,0.5" />
     <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetach" PickingTime="1" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true">
+      <StatusEffect type="OnContained" target="NearbyCharacters" range="350">
+        <Affliction identifier ="upcossackpower" strength="10"/>
+      </StatusEffect>
     </Holdable>
     <PreferredContainer primary="storagecab" spawnprobability="0" />
   </Item>
@@ -76,8 +88,11 @@
       <Price locationtype="mine" multiplier="2" sold="false" />
     </Price>
     <Deconstruct time="1"></Deconstruct>
-    <Sprite texture="%ModDir%/images/bogdanposter.png" depth="0.85" sourcerect="0,0,188,260" origin="0.5,0.5" />
+    <Sprite texture="%ModDir%/images/posters.png" depth="0.85" sourcerect="564,0,270,375" origin="0.5,0.5" />
     <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetach" PickingTime="1" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true">
+      <StatusEffect type="OnContained" target="NearbyCharacters" range="350">
+        <Affliction identifier ="upcossackpower" strength="10"/>
+      </StatusEffect>
     </Holdable>
     <PreferredContainer primary="storagecab" spawnprobability="0" />
   </Item>
@@ -92,8 +107,11 @@
       <Price locationtype="mine" multiplier="2" sold="false" />
     </Price>
     <Deconstruct time="1"></Deconstruct>
-    <Sprite texture="%ModDir%/images/ukrainianposter.png" depth="0.85" sourcerect="0,0,300,200" origin="0.5,0.5" />
+    <Sprite texture="%ModDir%/images/posters.png" depth="0.85" sourcerect="816,394,400,266" origin="0.5,0.5" />
     <Holdable selectkey="Select" pickkey="Use" slots="Any,RightHand,LeftHand" msg="ItemMsgDetach" PickingTime="1" aimpos="85,-10" handle1="0,0" attachable="true" aimable="true">
+      <StatusEffect type="OnContained" target="NearbyCharacters" range="350">
+        <Affliction identifier ="upcossackpower" strength="10"/>
+      </StatusEffect>
     </Holdable>
     <PreferredContainer primary="storagecab" spawnprobability="0" />
   </Item>

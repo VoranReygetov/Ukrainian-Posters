@@ -42,5 +42,10 @@
   It was adopted as a state flag for the first time in the aftermath
   of the Russian Revolution by the Ukrainian People's Republic,
   the West Ukrainian People's Republic and the Ukrainian State. 
-  </entitydescription.upposter_ukraine>
+  </entitydescription.upposter_ukraine>  
+  <!-- AFFLICTIONS -->
+  <afflictionname.upcossackpower>Cossack POWER</afflictionname.upcossackpower>
+  <afflictiondescription.upcossackpower>
+  You got unmatched punching power from your Hetman.
+  </afflictiondescription.upcossackpower>
 </infotexts>

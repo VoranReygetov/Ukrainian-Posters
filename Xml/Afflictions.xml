@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Afflictions>
+  <!-- cossack power -->
+  <Affliction name="" identifier="upcossackpower" description="" healableinmedicalclinic="false" targets="human" isbuff="true" iconcolors="255,255,255,255;255,255,255,255" indicatorlimb="Head" limbspecific="false" showiconthreshold="0" maxstrength="100">
+    <Effect minstrength="0" maxstrength="50">
+      <StatusEffect target="Character">
+        <StatValue stattype="MeleeAttackMultiplier" minvalue="0" maxvalue="0.35"/>
+      </StatusEffect>
+    </Effect>
+    <icon texture="%ModDir%/Images/posters.png" sourcerect="845,0,128,128" origin="0,0"/>
+  </Affliction>
+</Afflictions>
